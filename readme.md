@@ -8,9 +8,9 @@ Getting Started
 To get started with OWLee-Mod, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the ParanoidAndroid trees, use a command like this:
+To initialize your local repository using the OWLee-Mod trees, use a command like this:
 
-    repo init -u git://github.com/OWLee-Mod/manifest.git -b kitkat
+    repo init -u git://github.com/OWLee-Mod/android.git -b kitkat
 
 Then to sync up:
 
